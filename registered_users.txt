@@ -1,0 +1,6 @@
+Name,Email,Fee
+James,james@email.com,0
+John,john@email.com,120
+Terry,terry@email.com,10
+Mary,mary@email.com,0
+Andrew,andrew@email.com,0
